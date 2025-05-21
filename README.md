@@ -1,4 +1,4 @@
-# Awesome Cyber Security Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Cyber Security Mind Maps](https://mindmapai.app/mind-maps/cyber-security) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 Strengthen your cyber security initiatives with project management and mind maps AI to plan defenses, monitor risks, and coordinate response strategies. Mind maps AI helps visualize security frameworks, streamline incident management, and enhance team collaboration in protecting digital assets.
 
 - [CCNA Objective 1: Network Security](https://mindmapai.app/mind-map/ccna-objective-1-network-security-6464b39a)
